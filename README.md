@@ -15,7 +15,7 @@
         </nav>
     </header>
     <main>
-        <section>
+         <section>
             <article>
                 <h2>Fotos de natureza</h2>
                 <p> fotos captadas</p>
